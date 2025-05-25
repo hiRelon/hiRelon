@@ -27,3 +27,4 @@
   - fungsi
     
 ## Link Video Demo
+https://youtu.be/fLAMR4CR0rU
